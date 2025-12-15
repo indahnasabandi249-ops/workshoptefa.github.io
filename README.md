@@ -1,5 +1,4 @@
 <html lang="id">
-<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Teknik Komputer & Jaringan — SMK Negeri 8 Batam</title>
@@ -181,101 +180,6 @@
 
       <button class="hamburger" aria-label="menu">☰</button>
     </div>
-  </header>
-
-  <section class="hero" aria-label="Hero TKJ">
-    <div class="hero-wrap wrap">
-      <div class="slider" id="heroSlider" role="region" aria-roledescription="carousel">
-        <article class="slide">
-          <div class="hero-left">
-            <div class="brand-hero">
-              <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsULl5hSUAWDElBJ6xqAj3SMOgIm_9IE-55cQhMhpbtzTjm7hfBP4GS_QddflBx0hVMlZNYBeoOCm2tviQbyGsh5ruX_etcBe0nECKoTrcIKpdotvZykUWFkM6wDVXTXh9yh-NovmHFjlae-srQyL6axU8YbFspatgQxPvLLdN0c5yogEyH6xu6I3xmw/s500/1000251870-fotor-bg-remover-2025102171820.png" alt="Logo TKJ">
-              <div>
-                <div style="font-weight:800">Jurusan TKJ</div>
-                <div class="muted" style="font-size:13px">Teknik Komputer & Jaringan — SMKN 8 Batam</div>
-              </div>
-            </div>
-
-            <h2>Tunjukkan Kualitas Jawaramu.</h2>
-            <p class="lead-muted">Program vokasi yang menyiapkan siswa menguasai jaringan, sistem komputer, dan keterampilan IT siap kerja melalui praktik industri, TEFA, dan sertifikasi.</p>
-
-            <div class="cta-row">
-              <a class="btn btn-primary" href="#daftar">Daftar Sekarang</a>
-              <a class="btn btn-outline" href="#prestasi">Lihat Prestasi</a>
-            </div>
-
-            <div style="margin-top:12px;color:var(--muted);font-size:13px">
-              <strong>Alamat:</strong> Kav. Bukit Melati - Sei Pelunggut, Kec. Sagulung, Batam — <strong style="color:var(--tkj-blue)">+62 819-4372-5324</strong>
-            </div>
-          </div>
-
-          <div class="hero-right">
-            <div class="hero-image">
-              <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr1eaIntEU_OnEa50arxuLt_rdIz69NUJL_lfv0tmULz77o1pogd5Ip-3ijROpMdWRUjkraCUwNZXVc2cKDyr_eCyEpc70q10QZ6F2cq4PA6iUW7Y2itb5HqOSEFoNswbjngzgIvdNP2o-5A-j55mq4D0XO-wRH6ePuW6WZ3eHcifnCLdua-JpLSZ8KQ/s800/WhatsApp%20Image%202025-11-26%20at%2012.20.45%20PM.jpeg" alt="Ruangan TKJ">
-            </div>
-          </div>
-        </article>
-
-        <article class="slide">
-          <div class="hero-left">
-            <div class="brand-hero">
-              <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsULl5hSUAWDElBJ6xqAj3SMOgIm_9IE-55cQhMhpbtzTjm7hfBP4GS_QddflBx0hVMlZNYBeoOCm2tviQbyGsh5ruX_etcBe0nECKoTrcIKpdotvZykUWFkM6wDVXTXh9yh-NovmHFjlae-srQyL6axU8YbFspatgQxPvLLdN0c5yogEyH6xu6I3xmw/s500/1000251870-fotor-bg-remover-2025102171820.png" alt="Logo TKJ">
-              <div>
-                <div style="font-weight:800">Laboratorium & TEFA</div>
-                <div class="muted" style="font-size:13px">Praktik intensif & sertifikasi</div>
-              </div>
-            </div>
-
-            <h2>Praktik Nyata, Siap Kerja.</h2>
-            <p class="lead-muted">TEFA dan modul industri membentuk keterampilan teknis siswa — siap bekerja dan berwirausaha.</p>
-
-            <div class="cta-row">
-              <a class="btn btn-primary" href="#fasilitas">Lihat Fasilitas</a>
-              <a class="btn btn-outline" href="#workshop">Workshop & Jasa</a>
-            </div>
-          </div>
-
-          <div class="hero-right">
-            <div class="hero-image">
-              <img src="https://lh6.googleusercontent.com/yMJ3zOxhoaZP6FBmQA7jqXZERbBAKPZvhyupPUA2KFubeDOvEVzXF44YczHXHjQWQFP5tOoV8uIbxhHVnflnZOwkWrSJ2O_VCgtVzWQmIYydkA74YNWkWzshgBnsyHv5IeHvneY" alt="Laboratorium TKJ">
-            </div>
-          </div>
-        </article>
-
-        <article class="slide">
-          <div class="hero-left">
-            <div class="brand-hero">
-              <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsULl5hSUAWDElBJ6xqAj3SMOgIm_9IE-55cQhMhpbtzTjm7hfBP4GS_QddflBx0hVMlZNYBeoOCm2tviQbyGsh5ruX_etcBe0nECKoTrcIKpdotvZykUWFkM6wDVXTXh9yh-NovmHFjlae-srQyL6axU8YbFspatgQxPvLLdN0c5yogEyH6xu6I3xmw/s500/1000251870-fotor-bg-remover-2025102171820.png" alt="Logo TKJ">
-              <div>
-                <div style="font-weight:800">Prestasi Kreatif</div>
-                <div class="muted" style="font-size:13px">Film, poster, lomba</div>
-              </div>
-            </div>
-
-            <h2>Berkarya & Menang.</h2>
-            <p class="lead-muted">Juara 1 Lomba Film & Poster (Sumpah Pemuda) — bukti kompetensi kreatif siswa TKJ.</p>
-
-            <div class="cta-row">
-              <a class="btn btn-primary" href="#prestasi">Lihat Prestasi</a>
-              <a class="btn btn-outline" href="#kontak">Hubungi Kami</a>
-            </div>
-          </div>
-
-          <div class="hero-right">
-            <div class="hero-image">
-              <img src="https://lh3.googleusercontent.com/h3tdm2Gsm2Wg2UC_yHcxm7ZTFjWCeBF5_HFCi6SaFaSBYIUzvAlE7tWTvTZtU6xzHVz8ZA2wVu3v3bAo1z-RLbS1CybZWXL92JSPjmqR5QpbIy_6VI1Fw7R8B5927e1Bc5Bc1crf" alt="Multimedia TKJ">
-            </div>
-          </div>
-        </article>
-      </div>
-
-      <div class="dots" id="heroDots" aria-hidden="false">
-        <div class="dot active" data-index="0" aria-label="Slide 1"></div>
-        <div class="dot" data-index="1" aria-label="Slide 2"></div>
-        <div class="dot" data-index="2" aria-label="Slide 3"></div>
-      </div>
-    </div>
-  </section>
 
   <main>
     <section id="tentang">
@@ -332,40 +236,75 @@
     </section>
 
     <section id="berita">
-  <div class="wrap">
-    <h2 class="section-title">Berita & Kegiatan Terbaru</h2>
-    <p class="lead-muted">Berita kegiatan jurusan TKJ dan prestasi siswa.</p>
+      <div class="wrap">
+        <h2 class="section-title">Berita & Kegiatan Terbaru</h2>
+        <p class="lead-muted">Berita kegiatan jurusan TKJ dan prestasi siswa.</p>
 
-    <div class="news-grid">
-
-      <!-- Berita 1 -->
-      <article class="news-card">
-        <img class="news-thumb" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg6ry3Hqly8CxV3WYt9r-YaPlQZSVFpAW34INoAdaDo0vZTiLKoVvQsgi-jbZL-dUFepKzmuVMHA3mLM693R8sGaytUAiu8JBiFxqx8GfY9xyF6EfKUCUdMNf5ypphUQ_YSWQrFrJqKtYqoqs7ANV_xoPhZDnBltsZk0nh3oJo7aV5u28JdL5jZZKpAQ/s320/WhatsApp%20Image%202025-12-07%20at%208.37.14%20PM%20(1).jpeg" alt="MPLS 2024">
-        <div class="news-body">
-          <span class="muted">MPLS — 2024</span>
-          <h3 style="margin:8px 0">MPLS 2024 — Angkatan ke 2</h3>
-          <p class="muted">
-            MPLS Angkatan ke-2 TKJ menjadi langkah pertama bagi para siswa baru untuk mengenal dunia jaringan komputer lebih dekat...
-          </p>
+        <div class="news-grid">
+          <article class="news-card">
+            <img class="news-thumb" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg6ry3Hqly8CxV3WYt9r-YaPlQZSVFpAW34INoAdaDo0vZTiLKoVvQsgi-jbZL-dUFepKzmuVMHA3mLM693R8sGaytUAiu8JBiFxqx8GfY9xyF6EfKUCUdMNf5ypphUQ_YSWQrFrJqKtYqoqs7ANV_xoPhZDnBltsZk0nh3oJo7aV5u28JdL5jZZKpAQ/s320/WhatsApp%20Image%202025-12-07%20at%208.37.14%20PM%20(1).jpeg" alt="MPLS 2024">
+            <div class="news-body">
+              <span class="muted">MPLS — 2024</span>
+              <h3 style="margin:8px 0">MPLS 2024 — Angkatan ke 2</h3>
+              <p class="muted">MPLS Angkatan ke-2 TKJ menjadi langkah pertama bagi para siswa baru untuk mengenal dunia jaringan komputer lebih dekat. Selama kegiatan berlangsung, mereka diperkenalkan dengan lingkungan sekolah, laboratorium TKJ, serta perangkat-perangkat yang akan menjadi bagian dari pembelajaran mereka. Melalui sesi pengenalan jurusan, siswa mendapatkan gambaran tentang apa saja yang dipelajari di TKJ—mulai dari dasar jaringan, pengkabelan, konfigurasi perangkat, hingga peluang karier di bidang IT. Berbagai kegiatan kelompok, permainan, dan motivasi dari guru serta kakak kelas membuat suasana MPLS semakin seru dan penuh semangat. MPLS ini bukan hanya tentang mengenal sekolah, tetapi juga membangun mental, disiplin, dan rasa kebersamaan. Dengan berakhirnya kegiatan, para siswa resmi menjadi bagian dari keluarga besar TKJ dan siap memulai perjalanan menuju dunia teknologi yang penuh peluang.</p>
+            </div>
+          </article>
         </div>
-      </article>
-
-      <!-- Berita 2 -->
-      <article class="news-card">
-        <img class="news-thumb" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz_t7237N28Z1ONNOn2f54WlmYLQ1TXdPB-HCD27NzJlqLQD0HAXlhMxD1siD1tDXNJBX64QT4m3RY7PTWWJSA0Ly6k6avo6DRzlxvwmSBDB2jYeXQQKfXVZysSUVbM35cKH8jrM2QS6XVDBtsg0MSSMhllM95k558T83jn7n89_FqzJ4n_QP7wFlsUg/s320/WhatsApp%20Image%202025-12-07%20at%208.09.51%20PM.jpeg" alt="Juara Poster">
-
-        <div class="news-body">
-          <span class="muted">Sumpah Pemuda</span>
-          <h3 style="margin:8px 0">Juara 1 Lomba Poster & Film</h3>
-          <p class="muted">
-            Tim XI TKJ A & XI TKJ B meraih Juara 1 pada lomba poster & film saat peringatan Sumpah Pemuda — apresiasi atas kreativitas dan kerja tim siswa.
-          </p>
+      </div>
+    </section>
+    
+          <article class="news-card">
+            <img class="news-thumb" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz_t7237N28Z1ONNOn2f54WlmYLQ1TXdPB-HCD27NzJlqLQD0HAXlhMxD1siD1tDXNJBX64QT4m3RY7PTWWJSA0Ly6k6avo6DRzlxvwmSBDB2jYeXQQKfXVZysSUVbM35cKH8jrM2QS6XVDBtsg0MSSMhllM95k558T83jn7n89_FqzJ4n_QP7wFlsUg/s320/WhatsApp%20Image%202025-12-07%20at%208.09.51%20PM.jpeg" alt="Juara Poster">
+            <div class="news-body">
+            <img class="news-thumb" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXJQGOdOXBaGgK2T1VEG2O6Vl6GVzBSoHlrAfgh6gh0YRmfvt7a70zFpy3sMCxBBukNso51BwZg1zsnmAMpaJZX1z56S8bYYHeifsBRi65PQd-FB23IolOKQ1dlJsQ_mt1Tyqn29WHlr3rGMtWqmqDrUUp80X9IN9RW0v4dwLTdgiviYtoS7n_r8V9Ig/s320/WhatsApp%20Image%202025-12-07%20at%208.09.51%20PM%20(1).jpeg" alt="Juara Film">
+            <div class="news-body">
+              <span class="muted">Sumpah Pemuda</span>
+              <h3 style="margin:8px 0">Juara 1 Lomba Poster & Film</h3>
+              <p class="muted">Tim XI TKJ A & XI TKJ B meraih Juara 1 pada lomba poster & film saat peringatan Sumpah Pemuda — apresiasi atas kreativitas dan kerja tim siswa.</p>
+            </div>
+          </article>
         </div>
-      </article>
+      </div>
+    </section>
 
-    </div>
-  </div>
-</section>
+          <article class="news-card">
+            <img class="news-thumb" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirBgmZNVdkQBoWvwOBSLtuQ1kXfCkIIkMqh4UfCxnc59xM08rucR5cfJhJiVLGZrMZSR1ImiR9Yk1Ph9ntQCkG3Nhut0-MV6PLKk_ES8pW8zHNCSXEFcUyWsHeMuznPBQM5gAxA-hmIn7D-MtZ0kHeHxXRdZvTVuVOki_CmBgrkEc2561WPr7tcbx3cg/s1600/WhatsApp%20Image%202025-12-08%20at%207.45.48%20PM.jpeg" alt="">
+            <div class="news-body">
+            <img class="news-thumb" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE8tvYnACyjxW2urpYMT2lAqxmqQ_TnNMzO5L6IiaBuguEN6XPOgpbG1TYbSAzpQyntEG4jnDYAg-RemjtFogBtTd-zuFEvUOndZgrXJdk6NlT78h2bXWgo-fxQqixoxpnrXauPZ9deCAQ8CSp5DV29N8i42MwtWW2NZLsPkH1U7gQ__AubU3jQoVZxQ/s1600/WhatsApp%20Image%202025-12-08%20at%207.45.48%20PM%20(1).jpeg" alt="">
+            <div class="news-body">
+              <span class="muted">Praktik Kerja Lapangan</span>
+              <h3 style="margin:8px 0">Penjemputan siswa/i PKL</h3>
+              <p class="muted"> Kaprodi Teknik Komputer & Jaringan, Ibu Yohanna Br Tarigan, menjemput siswa/i PKL di Disduk Capil Kota Batam dan PT. Bandar Abadi Shipyard 1.</p>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+          <article class="news-card">
+            <img class="news-thumb" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwhN8dZv44y4pMsHQX3-BJZkcKR7Hqwu6dN8aOedR2f0DN-iDv_ZYPv69dpQ6w6TgTmxzOjM-l6Jnj1-a6gSdkgfTa3mukevpEcPHwS1URO-ixPAb3FXYqvIUUIOykaCOTKubLQ5O6ZVWK5sP6UVldfrq5mXiLXkvEWDhyphenhyphen0HUGCnj2In-fVkr7jN_vNQ/s1068/WhatsApp%20Image%202025-12-08%20at%208.04.50%20PM.jpeg" alt="">
+            <div class="news-body">
+              <span class="muted">Praktik Kejuruan</span>
+              <h3 style="margin:8px 0">Praktek Membuat Kabel LAN</h3>
+              <p class="muted"> Siswa/i sedang melakukan praktek membuat kabel LAN sebagai bagian dari pembelajaran Teknik Komputer dan Jaringan.</p>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+ 
+          <article class="news-card">
+            <img class="news-thumb" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXlw9A-Hl8VBXpQgJBU6d4u16qRNC2Mec7vaXYKrMOkhIYH08qo5ATIrQNvPsNF2GYaP85gJ1XLK7i3ZsLzMcQAsxr_A_oSftVVEoWO6LHJKlpk3fL_GvO5Ej3aRrdnlR6DpYPmRYxvElfmR9plQ7CJ3zR3-DL7_voWdVmUH2Cy18_RNiq2p9Zl5CEPg/s2048/WhatsApp%20Image%202025-12-08%20at%208.15.44%20PM%20(1).jpeg" alt="">
+            <div class="news-body">
+              <span class="muted">MPLS 2025</span>
+              <h3 style="margin:8px 0">MPLS Angkatan ke 3</h3>
+              <p class="muted"> Siswa/i MPLS Angkatan ke 3 sedang mengikuti pelatihan dan pembelajaran di lingkungan sekolah.</p>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
 
     <section id="sambutan">
       <div class="wrap">
@@ -413,7 +352,7 @@
           </div>
         </div>
       </div>
-    </section>  
+    </section>
     
 <html lang="id">
   <head>
@@ -1004,6 +943,35 @@
       </div>
     </section>
 
+         <!-- VIDEO -->
+      <section id="video" aria-labelledby="video-title">
+        <div class="container">
+          <h2 class="section-title" id="video-title">Gantungan Kunci</h2>
+          <div class="card" style="display: flex; gap: 16px; flex-wrap: wrap">
+            <div style="flex: 1; min-width: 300px">
+              <!-- video placeholder: replace src with actual video file or embed YouTube -->
+              <video
+                controls
+                width="100%"
+                poster="https://youtube.com/shorts/g_6LjiR1WxA?si=QaCPb8vJuIlzKkmD"
+              >
+                <source src="" type="video/mp4" />
+                Browser Anda tidak mendukung tag video. Anda dapat mengganti
+                atribut <code>src</code> dengan link video MP4 atau embed
+                YouTube.
+              </video>
+            </div>
+
+            <div style="flex: 1; min-width: 240px">
+              <p class="muted">
+                Gantungan Kunci kekinian. Minat? Silakan hubungi nomor WhatsApp di bawah 
+                untuk pemesanan dan informasi lebih lanjut.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
 
     <section id="kontak">
       <div class="wrap">
@@ -1016,7 +984,7 @@
               <h3 style="margin-top:0">Informasi Kontak</h3>
               <p class="muted"><strong>Alamat:</strong> SMK Negeri 8 Batam — Kav. Bukit Melati - Sei Pelunggut, Kecamatan Sagulung, Batam</p>
               <p class="muted"><strong>Telepon / WA:</strong> <a href="https://wa.me/6281943725324" style="color:var(--tkj-blue);text-decoration:none">+62 819-4372-5324</a></p>
-              <p class="muted"><strong>Email:</strong> officialhumas20@gmail.com</p>
+              <p class="muted"><strong>Email:</strong>  manajementkj8@gmail.com</p>
 
               <h4 style="margin-top:12px">Form Kontak</h4>
               <form class="contact-form" id="contactForm">
